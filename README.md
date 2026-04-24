@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**davikoscianski/davikoscianski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Sistemas de Informação na UFSC e um entusiasta do desenvolvimento backend, utilizando o ecossistema Linux/Ubuntu no meu dia a dia. Atualmente, estou focado no meu estágio em auditoria de TI e no desenvolvimento de sistemas sólidos.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 **Trabalhando em:** Projetos em Python, SQL, Java.
+* 🌱 **Estudando:** Lógica, matemática discreta e aprimorando minhas habilidades no backend.
+* ⚡ **Curiosidades:** Já pratiquei inumeras atividades físicas e esportes, educação física seria uma graduação que teria interesse no futuro.
+
+## 🛠️ Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davikoscianski&show_icons=true&theme=radium&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davikoscianski&layout=compact&theme=radium" alt="Linguagens mais usadas" />
+</p>
